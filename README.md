@@ -1,2 +1,2 @@
 # Maze
-Show and resolve maze
+Show and solve the maze
